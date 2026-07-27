@@ -1,0 +1,37 @@
+[
+    {
+        "id": 5,
+        "created_at": "2026-07-21T10:49:14.141196Z",
+        "updated_at": "2026-07-21T10:49:14.141196Z",
+        "name": "hugo p",
+        "description": "no games"
+    },
+    {
+        "id": 2,
+        "created_at": "2026-07-21T10:47:24.962385Z",
+        "updated_at": "2026-07-21T10:47:24.962385Z",
+        "name": "jeriq",
+        "description": "nwa iyoo"
+    },
+    {
+        "id": 3,
+        "created_at": "2026-07-21T10:48:03.705492Z",
+        "updated_at": "2026-07-21T10:48:03.705492Z",
+        "name": "phyno",
+        "description": "good singer"
+    },
+    {
+        "id": 4,
+        "created_at": "2026-07-21T10:48:49.063162Z",
+        "updated_at": "2026-07-21T10:48:49.063162Z",
+        "name": "timaya",
+        "description": "mase"
+    },
+    {
+        "id": 1,
+        "created_at": "2026-07-20T13:13:07.697623Z",
+        "updated_at": "2026-07-20T13:13:07.697623Z",
+        "name": "wizkid",
+        "description": "He is the created top talent"
+    }
+]
