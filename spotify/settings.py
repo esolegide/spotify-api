@@ -81,9 +81,9 @@ WSGI_APPLICATION = "spotify.wsgi.application"
 # https://docs.djangoproject.com/en/6.0/ref/settings/#databases
 
 if os.getenv("MODE") == "DEV":
-    DATABASE = {
+    DATABASES = {
         "default": {
-            "ENGINE": "django.db.backends.splite3",
+            "ENGINE": "django.db.backends.sqflite3",
             "NAME": BASE_DIR / "db.sqlite3",
         }
     }
